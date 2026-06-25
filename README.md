@@ -1,38 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sachin</h1>
+# Hi, I'm Sachin 👋
 
-<br>
-<h3 align="center">Passionate developer. Exploring technologies. Solving problems. Honing coding skills. Open for collaborations. Always learning.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elitecoderX&label=Profile%20views&color=00ff00&style=flat" alt="elitecoderX" /> </p>
+**Passionate developer exploring technologies, solving problems,
+and always learning. Open for collaborations.**
 
-<br>
+---
 
-- 🧑‍💻 Portfolio - [elitecoderx.pythonanywhere.com/](https://elitecoderx.pythonanywhere.com/)
-- 🤞 Linkedin - [linkedin.com/in/elitecoderx](https://www.linkedin.com/in/elitecoderx)
+## About me
 
-<br>
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=400&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=400"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=400" />
-</picture>
-  </div>
-<div align="center">
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/schnprjpt)
+- 🤝 Always open to interesting collaborations
+
+---
+
+## Stats
+
+<p align="center">
   <picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=elitecoderX&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=elitecoderX"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elitecoderX" />
-</picture>
-</div>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=schnprjpt&layout=compact&langs_count=8&card_width=400&hide_border=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=schnprjpt&layout=compact&langs_count=8&card_width=400&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schnprjpt&layout=compact&langs_count=8&card_width=400&hide_border=true" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=schnprjpt&hide_border=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=schnprjpt&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schnprjpt&hide_border=true" alt="GitHub streak" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=schnprjpt&style=flat&color=grey&label=profile+views" alt="profile views" />
+</p>
